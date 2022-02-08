@@ -1,6 +1,6 @@
 {
   "name": "CybeeDAO",
-  "logoURI": "https://raw.githubusercontent.com/mini-Cybee/token-list/master/assets/cybee-dao.png",
+  "logoURI": "https://raw.githubusercontent.com/mini-Cybee/token-list/main/assets/cybee-dao.png",
   "keywords": [
     "cybee",
     "dao"
@@ -17,6 +17,6 @@
     "name": "CybeeDAO",
     "symbol": "CBD",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/mini-Cybee/token-list/master/assets/cybee-dao.png"
+    "logoURI": "https://raw.githubusercontent.com/mini-Cybee/token-list/main/assets/cybee-dao.png"
   }]
 }
