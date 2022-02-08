@@ -1,0 +1,22 @@
+{
+  "name": "CybeeDAO",
+  "logoURI": "https://raw.githubusercontent.com/mini-Cybee/token-list/master/assets/cybee-dao.png",
+  "keywords": [
+    "cybee",
+    "dao"
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "timestamp": "2022-02-08T14:03:00.000+00:00",
+  "tokens": [{
+    "chainId": 1,
+    "address": "0x9B812C65529eC7d20ab630235ae20fde022c8aD3",
+    "name": "CybeeDAO",
+    "symbol": "CBD",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/mini-Cybee/token-list/master/assets/cybee-dao.png"
+  }]
+}
